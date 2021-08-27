@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: geekvinay.github.io
+Token: 63a2d3df46436e94a08fa52d5bac1500697567ff0ff8172dee283e962b2f733e
